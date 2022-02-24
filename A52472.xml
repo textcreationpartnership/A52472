@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true confession of Mr. George Norton, concerning the murther of Mr. Harris the dancing-master, on the 11th of June last. Taken out of his own papers, delivered by him to Mrs. Mary Edwards, before he took the fatal draught of poyson, on the 8th of August, of which he died the next following day, which was appointed for his execution at Tyburn.</title>
+            <author>Norton, George, d. 1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52472</idno>
+            <idno type="STC">Wing N1312AA</idno>
+            <idno type="STC">ESTC R210883</idno>
+            <idno type="EEBO-CITATION">99826548</idno>
+            <idno type="PROQUEST">99826548</idno>
+            <idno type="VID">30951</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52472)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30951)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1766:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true confession of Mr. George Norton, concerning the murther of Mr. Harris the dancing-master, on the 11th of June last. Taken out of his own papers, delivered by him to Mrs. Mary Edwards, before he took the fatal draught of poyson, on the 8th of August, of which he died the next following day, which was appointed for his execution at Tyburn.</title>
+                  <author>Norton, George, d. 1699.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by D. Edwards in Fetter-Lane,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Norton, George, d. 1699 --  Early works to 1800.</term>
+               <term>Harris, Thomas, d. 1699 --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30951:1"/>
+            <head>The True CONFESSION OF Mr. George Norton, Concerning the MURTHER OF Mr. HARRIS the Dancing-Maſter, On the 11th of <hi>June</hi> laſt.</head>
+            <head type="sub">Taken out of his own PAPERS, delivered by him to Mrs. <hi>Ma<g ref="char:EOLhyphen"/>ry Edwards,</hi> before he took the Fatal Draught of Poyſon, on the 8th of <hi>Auguſt,</hi> of which he died the next following day, which was appointed for his Execution at <hi>Tyburn.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>R. <hi>George Norton</hi> poſſitively declares, that what <hi>Mary Ager,</hi> who was walking along with Mr. <hi>Harris,</hi> when he had the Misfortune to kill him, depoſed concerning his clapping the ſaid <hi>Thomas Harris</hi> upon the Shoulder, and his asking him who he was, and his Swear<g ref="char:EOLhyphen"/>ing that he would lie with her, without any Provocation, was ut<g ref="char:EOLhyphen"/>terly falſe; as was likewiſe, what ſhe had declared, that he had drawn his Sword firſt; and that the ſaid Mr. <hi>Harris</hi> had been wounded by him, as ſhe believ'd, at the firſt Paſs; The Quarrel betwixt Mr. <hi>Harris</hi> and him happening in the following manner: As he was walking on the 11th of <hi>June</hi> laſt, about Eleven a Clock at Night at the <hi>Bar</hi> in <hi>High-Holbourn,</hi> near the <hi>Fountain-Tavern,</hi> being contrary to his Cuſtom, ſomewhat in Drink, he happened to meet and take the Wall of the beforeſaid <hi>Thomas Harris,</hi> who was leading this <hi>Mary Ager;</hi> at which, ſhe being much exaſperated, called him, without any further Provocation, a Prigg, and a Puppy, for offering to take the Wall of a Woman, adding, that ſhe wondred Mr. <hi>Harris</hi> would not kick him Into the Kenell, and ſo puſh'd him from the Wall. That then, and not before, he asked her who ſhe was, and without any fur<g ref="char:EOLhyphen"/>ther Intention of taking her from Mr. <hi>Harris,</hi> told her, that he would know why ſhe ſhould give him ſuch abuſive Language before they parted, and that he would have her before her Betters; upon which, Mr. <hi>Harris</hi> coming up cloſe to him, told him, he would make him know who ſhe was, and immedlately drew his Sword, and attack'd him ſo unexpectedly, that he was forc'd to defend himſelf as well as he could with his Cane, which he did for ſome time, till Mr. <hi>Harris,</hi> having cut his Cane in many places, and at laſt ſtruck it out of his hands, he was forced to have recourſe to his Sword; when ſeveral Paſſes were made betwixt them, and the before<g ref="char:EOLhyphen"/>mentioned <hi>Mary Ager,</hi> having taken the opportunity to take away his Sword, he was forced to cloſe in with the ſaid <hi>Thomas Harris,</hi> and having broke his Sword, with one of the Pieces, he gave, in the greateſt heat of Blood, and for the Security of his own Perſon, the Wound, which proved Fatal to his Enemy, and put him under ſuch an immediate Affliction, that he was no ſooner brought into the Watch-houſe, (which was not above 20 yards from the Place where the Quarrel hapned) but hear<g ref="char:EOLhyphen"/>ing that his Wound was judged Mortal, he cryed out to the Chirurgeon, to uſe his utmoſt Endeavours to ſave his Life, and that he ſhould have a 1000 <hi>l.</hi> ſecured him for a Reward, expreſſing his Sorrow for having kill'd a Man, for he did not know what, as was teſtified by ſeveral Watch-men, and the Neighbouring Vintner and his Appren<g ref="char:EOLhyphen"/>tice, who were there preſent, and afterwards Evidences for the King; as <hi>Nicholas Mountain,</hi> another Watch-man, (who was likewiſe Sworn for the King) has ſuffi<g ref="char:EOLhyphen"/>ciently
+<pb facs="tcp:30951:2" rendition="simple:additions"/>
+contradicted the depoſition of <hi>Mary Ager</hi> in that Point, relating to Mr. <hi>Har<g ref="char:EOLhyphen"/>ris,</hi> having received his Wound whilſt they were paſſing at one another; the ſaid <hi>Mountain</hi> having declared poſſitively, that he found Mr. <hi>Harris</hi> with a Piece only of his Sword in his Hand, the Point of about a Foot long, lying near him upon the Ground all Bloody, and that his own Sword was found near <hi>Mary Ager,</hi> clean, without any Marks of Blood; which is a ſufficient demonſtration that he could not be kill'd before his own Sword was drawn but afterwards when he was forced to cloſe with him to preſerve his own Life.</p>
+            <p>The ſaid Mr. <hi>George Norton</hi> further declares, that one Mrs. <hi>Ellit,</hi> living at the ſign of the <hi>Blew-Ball</hi> near the Watch houſe in <hi>High-Holbourn,</hi> where the Quarrel happened, heard the firſt Words about taking the Wall, which prov'd the unfortunate occaſion of the Quarrel, upon which ſhe opened her doors, brought out Lights, and took up his Cane, cut and hack'd in many places by Mr. <hi>Harris</hi>'s Sword; as one Mr. <hi>Ch<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tam,</hi> who happened to paſs by accidentally, was an eye-witneſs, that the ſaid <hi>Thomas Harris</hi> drew his Sword firſt againſt him and that he was fain to defend himſelf with his Cane, but did not tarry to ſee the whole iſſue of this Quarrel; and Mr. <hi>Rook</hi> heard diſtinctly out of his Chamber-Window, which he opened at the firſt Noiſe, the Claſhing of the Sword and Cane, very violently, as if they were ſtriking at one another.</p>
+            <p>Mr. <hi>Norton</hi> further ſays, that there are ſeveral Perſons of good Credit, who have and are ready at all times to atteſt, that the abovementioned <hi>Thomas Harris</hi> was al<g ref="char:EOLhyphen"/>ways accounted a very Quarrelſome Perſon, as <hi>Mary Ager</hi> was look'd upon by thoſe that knew her well, as a Woman of a very ſleight Reputation. One Mr. <hi>Graves</hi> a Bookbinder, and Houſe-keeper at St. <hi>James</hi>'s has declared, that he uſed frequently to draw his Sword upon naked People, and that he had been once in danger himſelf of having been kill'd by him unawares, if a certain Perſon, who ſtood by, had not given him timely Notice.</p>
+            <p>One Mr. <hi>Rook,</hi> and the Widow of the Deceaſed <hi>Harris</hi> has confeſs'd her ſelf, That the ſaid <hi>Thomas Harris</hi> had for a conſiderable time led a very idle and looſe Life, That he was addicted to Gaming and other Vices; That he had liv'd with this Woman as if ſhe were his Wife; and the ſaid Widow of Mr. <hi>Harris</hi> has poſſitively Affirmed, that her Husband, ſince his Converſing with this Woman, was turned Strouler up and down the Country, leaving his Wife, and family deſtitute at home, without the leaſt Care for their Subſiſtance; and that the ſaid Woman had been an Actreſs in moſt Parts of <hi>England.</hi> The Character of this Woman is confirmed by the Teſtimony of one Mrs. <hi>Ager,</hi> the True and Lawful Wife of Mr. <hi>Ager,</hi> who has depoſed in Court, That this Counterfelt Mrs. <hi>Ager,</hi> had taken upon her the Name of her Husband, with whom ſhe had kept Company for near ten years, to the Deſtruction of her and her Children, who were thereby reduced to the utmoſt Extremity.</p>
+            <p>And one Mr. <hi>Dubois</hi> has by his Affidavit, declared, That this pretended Mrs. <hi>A<g ref="char:EOLhyphen"/>ger,</hi> has proved the Ruin and Death of ſeveral Perſons before, and had been likely to have been the occaſion of his. That notwithſtanding the diſadvantageous Cha<g ref="char:EOLhyphen"/>racter of this Woman, who was the main Evidence againſt him; and tho' he brought ſeveral Gentlemen of good Reputation and Quality, who gave a good Account of his Civil and Peaceable Deportment, he was upon her Depoſition; to wit: That he attempted to take away a Man's Wife from him and Death enſuing) found guilty of Murther; which he again ſolemnly declares to have been falſely depoſed by the ſaid <hi>Mary Ager,</hi> his Intention being not in the leaſt to take her away, but only to call her to an Account for the ill Language ſhe gave him, upon which the Quarrel ariſing, as mentioned before; he, what with the Heat of Paſſion, and part<g ref="char:EOLhyphen"/>ly in his own Defence, did give the Wound to Mr. <hi>Harris</hi> with the broken Piece of his Sword, which proved fatal to him.</p>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <p>Whereas a Printer that bears the Name of a Quaker, near the <hi>Pumo in Little-Britain,</hi> makes it his practice to print Mens Copies upon them, and give ſuch lame Deſcriptions as bear no pro<g ref="char:EOLhyphen"/>portion to the Original, having the Senſe maim'd, the Impreſſion imperfect, and the Faults ſo abounding, as not ſo be worth the price they put them out at, which is but half what the Originals are ſold for. This is to acquaint the Reader that none concerning this Subject are Genuine, but what have the ſame price, paper and ſame Letter begun as this has. And whereas the publiſhing of ſmall papers in Correct Orthography does infinitely abdance True reading and proper Speaking of our Native Tongue, a half ſheet of theirs contains as many Errors as words, which proved prejudicial to youths and others that are not arrived to the perfection of the <hi>Engliſh</hi> Tongue; that when it happens into the hands of an Ingenious Man, 'tis enough to make him Spew<g ref="char:punc">▪</g> to ſee the naſtineſs of the print, and the abundance of Errors, to the no ſmall Diſparagement of the fa<g ref="char:EOLhyphen"/>mous Art and myſtery of printing.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>D. Edwards</hi> in <hi>Fetter-Lane.</hi> 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
